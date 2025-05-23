@@ -1,0 +1,162 @@
+[
+    {
+        "ingredient": {
+            "id": "d9524d31-8369-4439-ba7f-b34791a69d89",
+            "name": "Классическая булочка",
+            "cost_to_kiosk": 0.3,
+            "price_to_customer": 0.75,
+            "category": "булочка"
+        },
+        "quantity": 50
+    },
+    {
+        "ingredient": {
+            "id": "048865b2-2511-4591-8f1c-d23925c43c0e",
+            "name": "Булочка с кунжутом",
+            "cost_to_kiosk": 0.35,
+            "price_to_customer": 0.85,
+            "category": "булочка"
+        },
+        "quantity": 29
+    },
+    {
+        "ingredient": {
+            "id": "955b94d3-518f-42bb-99e6-dee93dee2a97",
+            "name": "Бриошь булочка",
+            "cost_to_kiosk": 0.45,
+            "price_to_customer": 1.0,
+            "category": "булочка"
+        },
+        "quantity": 20
+    },
+    {
+        "ingredient": {
+            "id": "91413e34-0488-4ecb-a4df-fd54c4445e24",
+            "name": "Говяжья сосиска 'Классика'",
+            "cost_to_kiosk": 0.8,
+            "price_to_customer": 1.5,
+            "category": "сосиска"
+        },
+        "quantity": 50
+    },
+    {
+        "ingredient": {
+            "id": "912863d3-9d03-43cf-b7c9-fa583340d5e3",
+            "name": "Острый чоризо 'Огонек'",
+            "cost_to_kiosk": 1.0,
+            "price_to_customer": 1.75,
+            "category": "сосиска"
+        },
+        "quantity": 30
+    },
+    {
+        "ingredient": {
+            "id": "64477196-19dd-4b1b-8627-a27a66a6e424",
+            "name": "Вегетарианская сосиска 'Здоровье'",
+            "cost_to_kiosk": 0.9,
+            "price_to_customer": 1.6,
+            "category": "сосиска"
+        },
+        "quantity": 29
+    },
+    {
+        "ingredient": {
+            "id": "08f355ac-e6f7-4900-b507-5c69f1c0660e",
+            "name": "Кетчуп томатный",
+            "cost_to_kiosk": 0.05,
+            "price_to_customer": 0.25,
+            "category": "соус"
+        },
+        "quantity": 99
+    },
+    {
+        "ingredient": {
+            "id": "5916f4df-343b-490a-9041-ce66d7f12405",
+            "name": "Горчица дижонская",
+            "cost_to_kiosk": 0.06,
+            "price_to_customer": 0.3,
+            "category": "соус"
+        },
+        "quantity": 100
+    },
+    {
+        "ingredient": {
+            "id": "ec3ab8f1-582c-48a9-b00a-da516d3dc974",
+            "name": "Майонез провансаль",
+            "cost_to_kiosk": 0.07,
+            "price_to_customer": 0.3,
+            "category": "соус"
+        },
+        "quantity": 80
+    },
+    {
+        "ingredient": {
+            "id": "aeacc341-3e87-49e7-b7ab-73407b3de8a8",
+            "name": "Соус Чили острый",
+            "cost_to_kiosk": 0.08,
+            "price_to_customer": 0.35,
+            "category": "соус"
+        },
+        "quantity": 60
+    },
+    {
+        "ingredient": {
+            "id": "4dd6ab47-9f0b-42da-9502-d63dbff5859d",
+            "name": "Сырный соус",
+            "cost_to_kiosk": 0.15,
+            "price_to_customer": 0.5,
+            "category": "соус"
+        },
+        "quantity": 50
+    },
+    {
+        "ingredient": {
+            "id": "926122a7-3cce-497e-ae16-e9118d82d669",
+            "name": "Сладкий луковый релиш",
+            "cost_to_kiosk": 0.1,
+            "price_to_customer": 0.4,
+            "category": "топпинг"
+        },
+        "quantity": 49
+    },
+    {
+        "ingredient": {
+            "id": "f087ded7-ad36-4059-8089-efaa3b3533b2",
+            "name": "Перчики Халапеньо (острые)",
+            "cost_to_kiosk": 0.12,
+            "price_to_customer": 0.45,
+            "category": "топпинг"
+        },
+        "quantity": 40
+    },
+    {
+        "ingredient": {
+            "id": "a2342e1a-25fe-4281-ab44-d8fa320bc7ad",
+            "name": "Маринованные огурчики",
+            "cost_to_kiosk": 0.1,
+            "price_to_customer": 0.4,
+            "category": "топпинг"
+        },
+        "quantity": 50
+    },
+    {
+        "ingredient": {
+            "id": "844550fe-a498-43d1-bdbb-b3bcb5673d42",
+            "name": "Хрустящий жареный лук",
+            "cost_to_kiosk": 0.15,
+            "price_to_customer": 0.5,
+            "category": "топпинг"
+        },
+        "quantity": 40
+    },
+    {
+        "ingredient": {
+            "id": "a5d620eb-67ca-4a43-b932-55c95449e5bc",
+            "name": "Тертый сыр Чеддер",
+            "cost_to_kiosk": 0.2,
+            "price_to_customer": 0.6,
+            "category": "топпинг"
+        },
+        "quantity": 40
+    }
+]

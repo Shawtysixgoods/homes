@@ -1,0 +1,4 @@
+Search query: B002
+Strategy: SearchByBookIDStrategy
+
+Book ID: B002, Title: 'Преступление и наказание', Author: Федор Достоевский, Year: 1866, Available: 1/2

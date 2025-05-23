@@ -1,0 +1,17 @@
+{
+    "R001": {
+        "reader_id": "R001",
+        "name": "Иван Иванов",
+        "borrowed_books": [
+            "B001"
+        ]
+    },
+    "R002": {
+        "reader_id": "R002",
+        "name": "Мария Петрова",
+        "borrowed_books": [
+            "B002",
+            "B001"
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+Search query: мир
+Strategy: SearchByTitleStrategy
+
+Book ID: B001, Title: 'Война и мир', Author: Лев Толстой, Year: 1869, Available: 3/5

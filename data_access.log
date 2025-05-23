@@ -1,0 +1,120 @@
+2025-05-23 11:47:14,604 - INFO - FileDataSource: Data loaded from 'numbers_data.json'. Contains 10 numbers.
+2025-05-23 11:47:14,604 - INFO - LoggingUpdatingProxy: Запрос get_numbers().
+2025-05-23 11:47:14,605 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: get_numbers() вернул 10 элементов.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Запрос calculate_sum().
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: calculate_sum() результат: 659.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Запрос calculate_max().
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: calculate_max() результат: 97.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Запрос calculate_min().
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,607 - INFO - LoggingUpdatingProxy: calculate_min() результат: 9.
+2025-05-23 11:47:14,708 - INFO - LoggingUpdatingProxy: Запрос get_numbers().
+2025-05-23 11:47:14,708 - INFO - LoggingUpdatingProxy: Обнаружено изменение файла данных. Обновление...
+2025-05-23 11:47:14,708 - INFO - FileDataSource: Data loaded from 'numbers_data.json'. Contains 11 numbers.
+2025-05-23 11:47:14,708 - INFO - LoggingUpdatingProxy: get_numbers() вернул 11 элементов.
+2025-05-23 11:47:14,709 - INFO - LoggingUpdatingProxy: Запрос calculate_sum().
+2025-05-23 11:47:14,709 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,709 - INFO - LoggingUpdatingProxy: calculate_sum() результат: 498.
+2025-05-23 11:47:14,809 - INFO - LoggingUpdatingProxy: Запрос calculate_max().
+2025-05-23 11:47:14,810 - INFO - LoggingUpdatingProxy: Обнаружено изменение файла данных. Обновление...
+2025-05-23 11:47:14,810 - INFO - FileDataSource: Data loaded from 'numbers_data.json'. Contains 14 numbers.
+2025-05-23 11:47:14,810 - INFO - LoggingUpdatingProxy: calculate_max() результат: 100.
+2025-05-23 11:47:14,810 - INFO - LoggingUpdatingProxy: Запрос calculate_min().
+2025-05-23 11:47:14,810 - INFO - LoggingUpdatingProxy: Файл данных не изменился. Обновление не требуется.
+2025-05-23 11:47:14,810 - INFO - LoggingUpdatingProxy: calculate_min() результат: 6.
+2025-05-23 11:48:05,837 - INFO - LibraryManager initialized.
+2025-05-23 11:48:05,837 - INFO - Facade action invoked: load_all_data()
+2025-05-23 11:48:05,837 - WARNING - Load attempt: File library_books.json not found.
+2025-05-23 11:48:05,837 - WARNING - Load attempt: File library_readers.json not found.
+2025-05-23 11:48:05,837 - INFO - All library data loaded.
+2025-05-23 11:48:05,837 - INFO - Facade action load_all_data completed. Result: None
+2025-05-23 11:48:05,837 - INFO - Facade action invoked: add_book(<__main__.Book object at 0x728b4819d610>)
+2025-05-23 11:48:05,837 - INFO - Book added: Война и мир (ID: B001)
+2025-05-23 11:48:05,838 - INFO - Facade action add_book completed. Result: True
+2025-05-23 11:48:05,838 - INFO - Facade action invoked: add_book(<__main__.Book object at 0x728b486a2f00>)
+2025-05-23 11:48:05,838 - INFO - Book added: Преступление и наказание (ID: B002)
+2025-05-23 11:48:05,838 - INFO - Facade action add_book completed. Result: True
+2025-05-23 11:48:05,838 - INFO - Facade action invoked: add_book(<__main__.Book object at 0x728b4807dca0>)
+2025-05-23 11:48:05,838 - INFO - Book added: Мастер и Маргарита (ID: B003)
+2025-05-23 11:48:05,838 - INFO - Facade action add_book completed. Result: True
+2025-05-23 11:48:05,838 - INFO - Facade action invoked: add_book(<__main__.Book object at 0x728b4a746630>)
+2025-05-23 11:48:05,838 - INFO - Book added: Прототипная Книга (ID: B004_C1)
+2025-05-23 11:48:05,838 - INFO - Facade action add_book completed. Result: True
+2025-05-23 11:48:05,838 - INFO - Facade action invoked: add_book(<__main__.Book object at 0x728b4807dd90>)
+2025-05-23 11:48:05,838 - INFO - Copies for book ID 'B001' updated. Total: 5
+2025-05-23 11:48:05,838 - INFO - Facade action add_book completed. Result: True
+2025-05-23 11:48:05,838 - INFO - Facade action invoked: add_reader(<__main__.Reader object at 0x728b4807de80>)
+2025-05-23 11:48:05,838 - INFO - Reader added: Иван Иванов (ID: R001)
+2025-05-23 11:48:05,838 - INFO - Facade action add_reader completed. Result: True
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: add_reader(<__main__.Reader object at 0x728b4807deb0>)
+2025-05-23 11:48:05,839 - INFO - Reader added: Мария Петрова (ID: R002)
+2025-05-23 11:48:05,839 - INFO - Facade action add_reader completed. Result: True
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: display_all_books()
+2025-05-23 11:48:05,839 - INFO - Facade action display_all_books completed. Result: None
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: display_all_readers()
+2025-05-23 11:48:05,839 - INFO - Facade action display_all_readers completed. Result: None
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: borrow_book('B001', 'R001')
+2025-05-23 11:48:05,839 - INFO - Book 'Война и мир' borrowed by reader 'Иван Иванов'.
+2025-05-23 11:48:05,839 - INFO - Facade action borrow_book completed. Result: True
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: borrow_book('B003', 'R001')
+2025-05-23 11:48:05,839 - INFO - Book 'Мастер и Маргарита' borrowed by reader 'Иван Иванов'.
+2025-05-23 11:48:05,839 - INFO - Facade action borrow_book completed. Result: True
+2025-05-23 11:48:05,839 - INFO - Facade action invoked: borrow_book('B002', 'R002')
+2025-05-23 11:48:05,839 - INFO - Book 'Преступление и наказание' borrowed by reader 'Мария Петрова'.
+2025-05-23 11:48:05,840 - INFO - Facade action borrow_book completed. Result: True
+2025-05-23 11:48:05,840 - INFO - Facade action invoked: borrow_book('B001', 'R002')
+2025-05-23 11:48:05,840 - INFO - Book 'Война и мир' borrowed by reader 'Мария Петрова'.
+2025-05-23 11:48:05,840 - INFO - Facade action borrow_book completed. Result: True
+2025-05-23 11:48:05,840 - INFO - Facade action invoked: display_all_books()
+2025-05-23 11:48:05,840 - INFO - Facade action display_all_books completed. Result: None
+2025-05-23 11:48:05,840 - INFO - Facade action invoked: display_all_readers()
+2025-05-23 11:48:05,840 - INFO - Facade action display_all_readers completed. Result: None
+2025-05-23 11:48:05,840 - INFO - Facade action invoked: return_book('B003', 'R001')
+2025-05-23 11:48:05,840 - INFO - Book 'Мастер и Маргарита' returned by reader 'Иван Иванов'.
+2025-05-23 11:48:05,840 - INFO - Facade action return_book completed. Result: True
+2025-05-23 11:48:05,840 - INFO - Facade action invoked: display_all_books()
+2025-05-23 11:48:05,840 - INFO - Facade action display_all_books completed. Result: None
+2025-05-23 11:48:05,841 - INFO - Facade action invoked: display_all_readers()
+2025-05-23 11:48:05,841 - INFO - Facade action display_all_readers completed. Result: None
+2025-05-23 11:48:05,841 - INFO - Facade action invoked: set_search_strategy(<__main__.SearchByTitleStrategy object at 0x728b4807df70>)
+2025-05-23 11:48:05,841 - INFO - Search strategy set to: SearchByTitleStrategy
+2025-05-23 11:48:05,841 - INFO - Facade action set_search_strategy completed. Result: None
+2025-05-23 11:48:05,842 - INFO - Facade action invoked: search_books('мир', output_to_file='search_title_results.txt')
+2025-05-23 11:48:05,842 - INFO - Search results for 'мир' saved to search_title_results.txt
+2025-05-23 11:48:05,842 - INFO - Facade action search_books completed. Result: [<__main__.Book object at 0x728b4819d610>]
+2025-05-23 11:48:05,842 - INFO - Facade action invoked: set_search_strategy(<__main__.SearchByAuthorStrategy object at 0x728b4807e0f0>)
+2025-05-23 11:48:05,842 - INFO - Search strategy set to: SearchByAuthorStrategy
+2025-05-23 11:48:05,842 - INFO - Facade action set_search_strategy completed. Result: None
+2025-05-23 11:48:05,842 - INFO - Facade action invoked: search_books('Толстой')
+2025-05-23 11:48:05,843 - INFO - Facade action search_books completed. Result: [<__main__.Book object at 0x728b4819d610>]
+2025-05-23 11:48:05,843 - INFO - Facade action invoked: set_search_strategy(<__main__.SearchByBookIDStrategy object at 0x728b4807df70>)
+2025-05-23 11:48:05,843 - INFO - Search strategy set to: SearchByBookIDStrategy
+2025-05-23 11:48:05,843 - INFO - Facade action set_search_strategy completed. Result: None
+2025-05-23 11:48:05,843 - INFO - Facade action invoked: search_books('B002', output_to_file='search_id_results.txt')
+2025-05-23 11:48:05,843 - INFO - Search results for 'B002' saved to search_id_results.txt
+2025-05-23 11:48:05,843 - INFO - Facade action search_books completed. Result: [<__main__.Book object at 0x728b486a2f00>]
+2025-05-23 11:48:05,843 - INFO - Facade action invoked: save_all_data()
+2025-05-23 11:48:05,843 - INFO - Data saved to library_books.json
+2025-05-23 11:48:05,844 - INFO - Data saved to library_readers.json
+2025-05-23 11:48:05,844 - INFO - All library data saved.
+2025-05-23 11:48:05,844 - INFO - Facade action save_all_data completed. Result: None
+2025-05-23 11:48:05,844 - INFO - Facade action invoked: load_all_data()
+2025-05-23 11:48:05,844 - INFO - Data loaded from library_books.json
+2025-05-23 11:48:05,844 - INFO - Data loaded from library_readers.json
+2025-05-23 11:48:05,844 - INFO - All library data loaded.
+2025-05-23 11:48:05,844 - INFO - Facade action load_all_data completed. Result: None
+2025-05-23 11:48:05,844 - INFO - Facade action invoked: display_all_books()
+2025-05-23 11:48:05,845 - INFO - Facade action display_all_books completed. Result: None
+2025-05-23 11:48:05,845 - INFO - Facade action invoked: display_all_readers()
+2025-05-23 11:48:05,845 - INFO - Facade action display_all_readers completed. Result: None
+2025-05-23 11:48:05,845 - INFO - Facade action invoked: remove_book('B004_C1')
+2025-05-23 11:48:05,845 - INFO - Book removed: ID B004_C1
+2025-05-23 11:48:05,845 - INFO - Facade action remove_book completed. Result: True
+2025-05-23 11:48:05,845 - INFO - Facade action invoked: remove_book('B001')
+2025-05-23 11:48:05,845 - WARNING - Attempt to remove borrowed book ID 'B001'. Denied.
+2025-05-23 11:48:05,845 - INFO - Facade action remove_book completed. Result: False
+2025-05-23 11:48:05,845 - INFO - Facade action invoked: display_all_books()
+2025-05-23 11:48:05,845 - INFO - Facade action display_all_books completed. Result: None
