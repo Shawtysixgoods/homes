@@ -1,34 +1,15 @@
-{
-    "B001": {
-        "book_id": "B001",
-        "title": "Война и мир",
-        "author": "Лев Толстой",
-        "year": 1869,
-        "copies_available": 3,
-        "total_copies": 5
-    },
-    "B002": {
-        "book_id": "B002",
-        "title": "Преступление и наказание",
-        "author": "Федор Достоевский",
-        "year": 1866,
-        "copies_available": 1,
-        "total_copies": 2
-    },
-    "B003": {
-        "book_id": "B003",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "year": 1967,
-        "copies_available": 5,
-        "total_copies": 5
-    },
-    "B004_C1": {
-        "book_id": "B004_C1",
-        "title": "Прототипная Книга",
-        "author": "Автор Прототипов",
-        "year": 2024,
-        "copies_available": 2,
-        "total_copies": 2
-    }
-}
+9
+16
+7
+17
+19
+17
+1
+12
+16
+8
+1
+13
+11
+5
+21
